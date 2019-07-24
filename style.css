@@ -1,0 +1,51 @@
+{
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: '#777';
+    background: '#777';
+    width: '960px';
+    font-size: '18px';
+  }
+
+  
+  header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background:#ebebeb;
+  }
+  
+  section {
+    background: black;
+  }
+  
+  #nav {
+    background: #ebebeb;
+  
+  }
+  
+  #section {
+    background: #ebebeb;
+  }
+  
+  #article {
+  }
+  
+  #full {
+  }
+  
+  #division {
+  }
+  
+  aside {
+    background: '#ebebeb';
+  }
+  
+  footer {
+    background: '#ebebeb';
+  }
+  
